@@ -1,5 +1,5 @@
-// Module 2.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
+// Module 2.cpp : This is an exercise from a textbook. This was to create a method of knowing an end of month balance.
+//Allows the input of beginning month balance, total deposits, and withdrawls. 
 
 #include <iostream>
 
